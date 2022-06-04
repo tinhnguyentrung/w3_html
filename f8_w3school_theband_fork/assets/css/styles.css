@@ -1,0 +1,7 @@
+/* Need to reset CSS here */
+/* Using emmet */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
