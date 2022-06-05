@@ -5,3 +5,54 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+/*
+    1. Vi tri : position
+    2. Kich thuoc : width, height
+    3. Mau sac : color
+    4. Hinh dang ( tron, vuong, tam giac ) : shape
+*/
+
+#main {
+    
+}
+#header {
+    background-color: #000;
+    height: 46px;
+    
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 46px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+/* Css for hover */
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+}
+#slider {
+    
+}
+#content {
+    
+}
+#footer {
+    
+}
+
+
+
